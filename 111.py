@@ -42,8 +42,8 @@ class Baidu_Test(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-    -----------------------
-    learningit :33333333333333333
 
 ----------------------
 download : 11111
+    -----------------------
+    learningit :33333333333333333
